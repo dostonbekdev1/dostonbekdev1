@@ -8,7 +8,5 @@
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968701.png"  width="35px"/></code>
 <code> <img src="https://p.kindpng.com/picc/s/178-1787717_calligraphy-hd-png-download.png"  width="70px"/></code>
 <br>
-
-<hr>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?dostonbekdev1=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
