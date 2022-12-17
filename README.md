@@ -9,10 +9,6 @@
 <code> <img src="https://p.kindpng.com/picc/s/178-1787717_calligraphy-hd-png-download.png"  width="70px"/></code>
 <br>
 <br>
-<hr>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)]" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
