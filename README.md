@@ -9,5 +9,4 @@
 <code> <img src="https://p.kindpng.com/picc/s/178-1787717_calligraphy-hd-png-download.png"  width="70px"/></code>
 
 
-
-![Dostonbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api.dostonbekdev1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
