@@ -9,9 +9,7 @@
 <code> <img src="https://p.kindpng.com/picc/s/178-1787717_calligraphy-hd-png-download.png"  width="70px"/></code>
 <br>
 <br>
-<br>
 <hr>
-<br>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
