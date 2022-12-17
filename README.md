@@ -6,4 +6,6 @@
 <code> <img src="https://www.pngitem.com/pimgs/m/27-278312_bootstrap-bootstrap-logo-black-and-white-hd-png.png"  width="30px"/></code>
 <code> <img src="https://sass-lang.com/assets/img/styleguide/black-7fd39aa3.png"  width="30px"/></code>
 <code> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png"  width="30px"/></code>
+<code> <img src="https://www.seekpng.com/png/full/213-2134127_trello-logo-blue-trello-logo-white-png.png"  width="30px"/></code>
+
 
