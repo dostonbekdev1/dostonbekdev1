@@ -1,4 +1,4 @@
-### Hi there 👋   ###
+### Hi there 👋   My name is Dostonbek and I'm fond of creating new websites , my goal is to help people by building IT products
 
 <code> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"  width="35px"/></code>
 <code> <img src="https://cdn-icons-png.flaticon.com/512/121/121537.png" width="35px"/></code>
