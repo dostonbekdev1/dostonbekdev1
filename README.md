@@ -10,5 +10,5 @@
 <br>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dostonbekdev1=anuraghazra&demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dostonbekdev1&demo)](https://github.com/anuraghazra/github-readme-stats)
 
