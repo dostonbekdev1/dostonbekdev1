@@ -8,6 +8,7 @@
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968701.png"  width="35px"/></code>
 <code> <img src="https://p.kindpng.com/picc/s/178-1787717_calligraphy-hd-png-download.png"  width="70px"/></code>
 <br>
-<hr>
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dostonbekdev1&show_icons=true&theme=transparent)
 
